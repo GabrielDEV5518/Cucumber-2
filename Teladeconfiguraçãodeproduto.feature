@@ -14,7 +14,6 @@
              | laranja  | M       | 2          |
              | vermelho | L       | 3          |
 
-
              Cenário: botão limpar
              Dado que eu queira voltar a "co" e "tamanho"  original
              Quando apertar o  o botão "Limpar"

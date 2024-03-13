@@ -1,9 +1,8 @@
             #laguage: pt
-
             Funcionalidade: tela de login
             Como cliente da plataforma EBAC-Shop
             quero acessar meu logina plataforma
-
+            
             Contexto: dado que eu acesse meu login na platafroma EBAC-Shop para a página de checkout
 
             Esquema do Cenário: autenticar multiplos usuários

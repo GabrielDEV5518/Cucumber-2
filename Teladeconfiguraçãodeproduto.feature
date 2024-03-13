@@ -1,7 +1,6 @@
             #language: pt:
-
              Funcionalidade: Tela de configuração de produto
-
+             
              Contexto: dado que eu queira confugurar o produto ao meu gosto
   
              Esquema do Cenário: seleção de cor tamanho e quantidade

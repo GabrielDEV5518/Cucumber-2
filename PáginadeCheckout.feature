@@ -1,5 +1,4 @@
 #language: pt:
-
 Funcionalidade: finalização do cadastro na tela de checkout
 
 Contexto: dado que tente concluir o cadastro na EBAC-Shop
